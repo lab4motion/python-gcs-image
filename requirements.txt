@@ -1,4 +1,4 @@
-Flask==1.0.2
-Werkzeug==0.14.1
-google-api-python-client==1.7.7
-GoogleAppEngineCloudStorageClient==1.9.22.1
+appengine-python-standard==1.1.6
+Flask==3.0.3
+google-api-python-client==2.129.0
+google-cloud-storage==2.16.0
